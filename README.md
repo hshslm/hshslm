@@ -34,7 +34,7 @@ Going deeper on AI-accelerated delivery: LLM integration and prompt-to-productio
 - **Symmetra** · [symmetrastudios.com](https://symmetrastudios.com)
   - **Description:** AI video generation platform for premium, AI-produced video.
   - **Technologies Used:** Next.js, React, Supabase, Stripe, Radix UI / shadcn, Framer Motion, Tailwind CSS
-- **Project Lean** · App Store · Google Play
+- **Project Lean** · [App Store](https://apps.apple.com/app/id6768079565) · [Google Play](https://play.google.com/store/apps/details?id=com.strideperformance.projectlean) · [projectlean.app](https://theleanbrain.projectlean.app)
   - **Description:** AI nutrition and behavior-coaching app: scan meals, daily check-ins, an AI coach, and weekly insights.
   - **Technologies Used:** React Native, Expo, Supabase, TanStack Query, Zod, NativeWind, Reanimated
 - **Sportify** · [App Store](https://apps.apple.com/us/app/sportify-eg/id6741406465) · [Google Play](https://play.google.com/store/apps/details?id=com.hshslm.fp3)
