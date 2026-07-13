@@ -30,16 +30,16 @@ Going deeper on AI-accelerated delivery: LLM integration and prompt-to-productio
 ## 💻 Projects
 - **Glint** · [glint.pics](https://glint.pics)
   - **Description:** Wedding-photo sharing SaaS: guests capture and pool a whole event's photos in one place.
-  - **Technologies Used:** Next.js, React, Supabase, Stripe, Tailwind CSS, Framer Motion
+  - **Technologies Used:** Next.js, React, TypeScript, Supabase, Google Drive API, Stripe, Upstash Redis, Tailwind CSS, Framer Motion, Vercel
 - **Symmetra** · [symmetrastudios.com](https://symmetrastudios.com)
   - **Description:** AI video generation platform for premium, AI-produced video.
-  - **Technologies Used:** Next.js, React, Supabase, Stripe, Radix UI / shadcn, Framer Motion, Tailwind CSS
+  - **Technologies Used:** Next.js, React, TypeScript, Tailwind CSS, GSAP, Lenis, WebGL, Sanity CMS, Mux + HLS.js, Vercel
 - **Project Lean** · [App Store](https://apps.apple.com/app/id6768079565) · [Google Play](https://play.google.com/store/apps/details?id=com.strideperformance.projectlean) · [projectlean.app](https://theleanbrain.projectlean.app)
   - **Description:** AI nutrition and behavior-coaching app: scan meals, daily check-ins, an AI coach, and weekly insights.
-  - **Technologies Used:** React Native, Expo, Supabase, TanStack Query, Zod, NativeWind, Reanimated
+  - **Technologies Used:** React Native, Expo, TypeScript, NativeWind, Zustand, TanStack Query, Supabase, Gemini API, Stripe, Reanimated, EAS
 - **Sportify** · [App Store](https://apps.apple.com/us/app/sportify-eg/id6741406465) · [Google Play](https://play.google.com/store/apps/details?id=com.hshslm.fp3)
   - **Description:** Sports-venue booking app: discover and book venues and activities, check in, manage memberships and credits, and earn rewards. React Native client with a Next.js admin dashboard.
-  - **Technologies Used:** React Native, Expo, Supabase, NativeWind, Reanimated, Paymob
+  - **Technologies Used:** React Native, Expo, TypeScript, NativeWind, Zustand, Supabase Edge Functions, Google Maps, Paymob, Reanimated, EAS; Next.js + MUI admin dashboard
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Hashim Salem](https://www.linkedin.com/in/hashim-salem-648082169)
